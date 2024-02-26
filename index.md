@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Selector Ninja"
-  text: "Level up CSS Selectors"
-  tagline: My great project tagline
+  tagline: Level up CSS Selectors
   actions:
     - theme: brand
       text: Markdown Examples
